@@ -1,0 +1,7 @@
+functions-framework
+pandas
+requests
+beautifulsoup4
+sqlalchemy
+pymysql
+dotenv
