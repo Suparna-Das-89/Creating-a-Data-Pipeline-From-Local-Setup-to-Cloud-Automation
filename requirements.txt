@@ -1,6 +1,0 @@
-functions-framework
-SQLAlchemy
-PyMySQL
-pandas
-dotenv
-requests
